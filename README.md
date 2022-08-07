@@ -9,3 +9,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [242](https://leetcode.com/problems/valid-anagram/)| [Python_File](242_Valid_Anagram/Python_Sol.py)|[CPP_File](242_Valid_Anagram/CPP_Sol.cpp) |  
 | [485](https://leetcode.com/problems/max-consecutive-ones/) | [Python_File](485_Max_Consecutive_Ones/Python_Sol.py) | [CPP_File](485_Max_Consecutive_Ones/CPP_Sol.cpp) |  
 | [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python_File](1295_Find_Numbers_with_Even_Number_of_Digits/Python_Sol.py) | [CPP_File](1295_Find_Numbers_with_Even_Number_of_Digits/CPP_Sol.cpp) |  
+| [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python_File](977_Squares_of_a_Sorted_Array/Python_Sol.py) | [CPP_File](977_Squares_of_a_Sorted_Array/CPP_Sol.cpp) |  
