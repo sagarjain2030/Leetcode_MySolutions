@@ -13,3 +13,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [1089](https://leetcode.com/problems/duplicate-zeros/) | [Python_File](1089_Duplicate_Zeros/Python_Sol.py) | [CPP_File](1089_Duplicate_Zeros/CPP_Sol.cpp) |  
 | [88](https://leetcode.com/problems/merge-sorted-array/) | [Python_File](88_Merge_Sorted_Array/Python_Sol.py) | [CPP_File](88_Merge_Sorted_Array/CPP_Sol.cpp) |   
 | [27](https://leetcode.com/problems/remove-element/) | [Python_File](27_Remove_Element/Python_Sol.py) | [CPP_File](27_Remove_Element/CPP_Sol.cpp) | 
+| [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python_File](26_Remove_Duplicates_from_Sorted_Array/Python_Sol.py) | [CPP_File](26_Remove_Duplicates_from_Sorted_Array/CPP_Sol.cpp) | 
