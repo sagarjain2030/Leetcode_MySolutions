@@ -15,3 +15,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [27](https://leetcode.com/problems/remove-element/) | [Python_File](27_Remove_Element/Python_Sol.py) | [CPP_File](27_Remove_Element/CPP_Sol.cpp) | 
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python_File](26_Remove_Duplicates_from_Sorted_Array/Python_Sol.py) | [CPP_File](26_Remove_Duplicates_from_Sorted_Array/CPP_Sol.cpp) |   
 | [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python_File](1346_Check_If_N_and_Its_Double_Exist/Python_Sol.py) | [CPP_File](1346_Check_If_N_and_Its_Double_Exist/CPP_Sol.cpp) |
+| [941](https://leetcode.com/problems/valid-mountain-array/) | [Python_File](941_Valid_Mountain_Array/Python_Sol.py) | [CPP_File](941_Valid_Mountain_Array/CPP_Sol.cpp) |
