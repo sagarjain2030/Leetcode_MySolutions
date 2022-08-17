@@ -17,3 +17,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python_File](1346_Check_If_N_and_Its_Double_Exist/Python_Sol.py) | [CPP_File](1346_Check_If_N_and_Its_Double_Exist/CPP_Sol.cpp) |
 | [941](https://leetcode.com/problems/valid-mountain-array/) | [Python_File](941_Valid_Mountain_Array/Python_Sol.py) | [CPP_File](941_Valid_Mountain_Array/CPP_Sol.cpp) |
 | [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python_File](1299_Replace_Elements_with_Greatest_Element_on_Right_Side/Python_Sol.py) | [CPP_File](1299_Replace_Elements_with_Greatest_Element_on_Right_Side/CPP_Sol.cpp) |
+| [283](https://leetcode.com/problems/move-zeroes/) | [Python_File](283_Move_Zeroes/Python_Sol.py) | [CPP_File](283_Move_Zeroes/CPP_Sol.cpp) |
