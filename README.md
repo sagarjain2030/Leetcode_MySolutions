@@ -19,3 +19,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python_File](1299_Replace_Elements_with_Greatest_Element_on_Right_Side/Python_Sol.py) | [CPP_File](1299_Replace_Elements_with_Greatest_Element_on_Right_Side/CPP_Sol.cpp) |
 | [283](https://leetcode.com/problems/move-zeroes/) | [Python_File](283_Move_Zeroes/Python_Sol.py) | [CPP_File](283_Move_Zeroes/CPP_Sol.cpp) |
 | [905](https://leetcode.com/problems/sort-array-by-parity/) | [Python_File](905_Sort_Array_By_Parity/Python_Sol.py) | [CPP_File](905_Sort_Array_By_Parity/CPP_Sol.cpp) |
+| [1051](https://leetcode.com/problems/height-checker/) | [Python_File](1051_Height_Checker/Python_Sol.py) | [CPP_File](1051_Height_Checker/CPP_Sol.cpp) |
