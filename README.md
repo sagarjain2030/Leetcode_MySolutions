@@ -21,3 +21,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [905](https://leetcode.com/problems/sort-array-by-parity/) | [Python_File](905_Sort_Array_By_Parity/Python_Sol.py) | [CPP_File](905_Sort_Array_By_Parity/CPP_Sol.cpp) |
 | [1051](https://leetcode.com/problems/height-checker/) | [Python_File](1051_Height_Checker/Python_Sol.py) | [CPP_File](1051_Height_Checker/CPP_Sol.cpp) |
 | [487](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Python_File](487_Max_Consecutive_Ones_II/Python_Sol.py) | [CPP_File](487_Max_Consecutive_Ones_II/CPP_Sol.cpp) |
+| [414](https://leetcode.com/problems/third-maximum-number/) | [Python_File](414_Third_Maximum_Number/Python_Sol.py) | [CPP_File](414_Third_Maximum_Number/CPP_Sol.cpp) |
