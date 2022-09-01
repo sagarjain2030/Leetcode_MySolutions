@@ -23,4 +23,5 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [487](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Python_File](487_Max_Consecutive_Ones_II/Python_Sol.py) | [CPP_File](487_Max_Consecutive_Ones_II/CPP_Sol.cpp) |
 | [414](https://leetcode.com/problems/third-maximum-number/) | [Python_File](414_Third_Maximum_Number/Python_Sol.py) | [CPP_File](414_Third_Maximum_Number/CPP_Sol.cpp) |
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python_File](448_Find_All_Numbers_Disappeared_in_an_Array/Python_Sol.py) | [CPP_File](448_Find_All_Numbers_Disappeared_in_an_Array/CPP_Sol.cpp) |
+| [707](https://leetcode.com/problems/design-linked-list/) | [Python_File](707_Design_Linked_List/Python_Sol.py) | [CPP_File](707_Design_Linked_List/CPP_Sol.cpp) |
 
