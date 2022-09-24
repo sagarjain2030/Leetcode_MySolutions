@@ -26,3 +26,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [707](https://leetcode.com/problems/design-linked-list/) | [Python_File](707_Design_Linked_List/Python_Sol.py) | [CPP_File](707_Design_Linked_List/CPP_Sol.cpp) |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Python_File](141_Linked_List_Cycle/Python_Sol.py) | [CPP_File](141_Linked_List_Cycle/CPP_Sol.cpp) |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python_File](142_Linked_List_Cycle_II/Python_Sol.py) | [CPP_File](142_Linked_List_Cycle_II/CPP_Sol.cpp) |
+| [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python_File](160_Intersection_of_Two_Linked_Lists/Python_Sol.py) | [CPP_File](160_Intersection_of_Two_Linked_Lists/CPP_Sol.cpp) |
