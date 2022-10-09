@@ -28,3 +28,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python_File](142_Linked_List_Cycle_II/Python_Sol.py) | [CPP_File](142_Linked_List_Cycle_II/CPP_Sol.cpp) |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python_File](160_Intersection_of_Two_Linked_Lists/Python_Sol.py) | [CPP_File](160_Intersection_of_Two_Linked_Lists/CPP_Sol.cpp) |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python_File](19_Remove_Nth_Node_From_End_of_List/Python_Sol.py) | [CPP_File](19_Remove_Nth_Node_From_End_of_List/CPP_Sol.cpp) |
+| [206](https://leetcode.com/problems/reverse-linked-list) | [Python_File](206_Reverse_Linked_List/Python_Sol.py) | [CPP_File](206_Reverse_Linked_List/CPP_Sol.cpp) |
