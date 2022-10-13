@@ -30,3 +30,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python_File](19_Remove_Nth_Node_From_End_of_List/Python_Sol.py) | [CPP_File](19_Remove_Nth_Node_From_End_of_List/CPP_Sol.cpp) |
 | [206](https://leetcode.com/problems/reverse-linked-list) | [Python_File](206_Reverse_Linked_List/Python_Sol.py) | [CPP_File](206_Reverse_Linked_List/CPP_Sol.cpp) |
 | [203](https://leetcode.com/problems/remove-linked-list-elements) | [Python_File](203_Remove_Linked_List_Elements/Python_Sol.py) | [CPP_File](203_Remove_Linked_List_Elements/CPP_Sol.cpp) |
+| [328](https://leetcode.com/problems/odd-even-linked-list) | [Python_File](328_Odd_Even_Linked_List/Python_Sol.py) | [CPP_File](328_Odd_Even_Linked_List/CPP_Sol.cpp) |
