@@ -32,3 +32,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [203](https://leetcode.com/problems/remove-linked-list-elements) | [Python_File](203_Remove_Linked_List_Elements/Python_Sol.py) | [CPP_File](203_Remove_Linked_List_Elements/CPP_Sol.cpp) |
 | [328](https://leetcode.com/problems/odd-even-linked-list) | [Python_File](328_Odd_Even_Linked_List/Python_Sol.py) | [CPP_File](328_Odd_Even_Linked_List/CPP_Sol.cpp) |
 | [234](https://leetcode.com/problems/palindrome-linked-list) | [Python_File](234_Palindrome_Linked_List/Python_Sol.py) | [CPP_File](234_Palindrome_Linked_List/CPP_Sol.cpp) |
+| [21](https://leetcode.com/problems/merge-two-sorted-lists) | [Python_File](21_Merge_Two_Sorted_Lists/Python_Sol.py) | [CPP_File](21_Merge_Two_Sorted_Lists/CPP_Sol.cpp) |
