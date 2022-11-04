@@ -33,3 +33,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [328](https://leetcode.com/problems/odd-even-linked-list) | [Python_File](328_Odd_Even_Linked_List/Python_Sol.py) | [CPP_File](328_Odd_Even_Linked_List/CPP_Sol.cpp) |
 | [234](https://leetcode.com/problems/palindrome-linked-list) | [Python_File](234_Palindrome_Linked_List/Python_Sol.py) | [CPP_File](234_Palindrome_Linked_List/CPP_Sol.cpp) |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists) | [Python_File](21_Merge_Two_Sorted_Lists/Python_Sol.py) | [CPP_File](21_Merge_Two_Sorted_Lists/CPP_Sol.cpp) |
+| [2](https://leetcode.com/problems/add-two-numbers/) | [Python_File](2_Add_Two_Numbers/Python_Sol.py) | [CPP_File](2_Add_Two_Numbers/CPP_Sol.cpp) |
