@@ -36,3 +36,4 @@ I will be adding all the solutions I have written , in this repository from Leet
 | [2](https://leetcode.com/problems/add-two-numbers/) | [Python_File](2_Add_Two_Numbers/Python_Sol.py) | [CPP_File](2_Add_Two_Numbers/CPP_Sol.cpp) |
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | [Python_File](430_Flatten_a_Multilevel_Doubly_Linked_List/Python_Sol.py) | [CPP_File](430_Flatten_a_Multilevel_Doubly_Linked_List/CPP_Sol.cpp) |
 | [708](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [Python_File](708_Insert_into_a_Sorted_Circular_Linked_List/Python_Sol.py) | [CPP_File](708_Insert_into_a_Sorted_Circular_Linked_List/CPP_Sol.cpp) |
+| [138](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python_File](138_Copy_List_with_Random_Pointer/Python_Sol.py) | [CPP_File](138_Copy_List_with_Random_Pointer/CPP_Sol.cpp) |
