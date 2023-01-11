@@ -1,24 +1,22 @@
 class Solution {
 public:
-    int findMaxConsecutiveOnes(vector<int>& nums) 
-    {
-        int left =0, right = 0, numZeroes = 0;
-        int longest_sequence = 0;
-        for(int i = 0; i < nums.size(); i++)
-        {
-            if(nums[right] == 0)
-                numZeroes++;
-            while(numZeroes == 2)
-            {
-                if(nums[left] == 0)
-                    numZeroes--;
-                left++;
+   vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
+        vector<int> res;
+        int i = 0, j = 0, n = mat.size(), m = mat[0].size(), add = -1;
+        res.push_back(mat[i][j]);
+        while (i < n - 1 || j < m - 1) {
+            if (j < m - 1 && ((i == 0 && add == -1) || (i == n - 1 && add == 1))) {
+                ++ j;
+                add = -add;
+            } else if ((j == 0 && add == 1) || (j == m - 1 && add == -1)) {
+                ++ i;
+                add = -add;
+            } else {
+                i += add;
+                j -= add;
             }
-            
-            if(longest_sequence < (right - left + 1))
-                longest_sequence = right - left + 1;
-            right++;
+            res.push_back(mat[i][j]);
         }
-        return longest_sequence;
+        return res;
     }
 };
